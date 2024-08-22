@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Md Quaiser Ali</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">I am pursuing Bachelor of Computer Science from Suresh Gyan Vihar University , Jaipur.
+Certain skills that I have worked with include Python , Data Analysis, Machine Learning, Excel & Power BI . And what I might lack in skills I make up for with my determination to learn.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quaiser07&label=Profile%20views&color=0e75b6&style=flat" alt="quaiser07" /> </p>
 
