@@ -1,9 +1,12 @@
+
 <h1 align="center">Hi 👋, I'm Md Quaiser Ali</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quaiser07&label=Profile%20views&color=0e75b6&style=flat" alt="quaiser07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quaiser07" alt="quaiser07" /></a> </p>
+
+<img align="right" alt="coding" width="400"  src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" alt="">
 
 - 🔭 I’m currently working on **Fashion Recommendation System**
 
